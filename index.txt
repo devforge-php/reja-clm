@@ -1,2 +1,7 @@
 1- userlar emailga saytda yanig task qoshilsa emailga ovtomatik sms boradigan qilish
+
 2- top 10-userlar royhatini chiqarish level task gold refferal va userni bir ikta malumotlari
+
+3- marketing post - yani user postlar bolimiga otadi va koradi nima boldi postl turgan boldi yani , birorta rasm va keyin tavsif , boladi userlar nima qila oladi postlar like bosa oladi , va commet qoldiradi ozini fikrini shu post haqida , va bu postlar faqat admin tarafdan yaratiladi
+
+4- Graphql dan foydalanish yani hozir 2- chi bilan 3- rejani polni Graphql api dan foydalanish
