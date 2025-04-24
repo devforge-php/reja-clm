@@ -1,4 +1,4 @@
-1- userlar emailga saytda yanig task qoshilsa emailga ovtomatik sms boradigan qilish
+1- userlar emailga saytda yangi task qoshilsa emailga avtomatik sms boradigan qilish
 
 2- top 10-userlar royhatini chiqarish level task gold refferal va userni bir ikta malumotlari
 
